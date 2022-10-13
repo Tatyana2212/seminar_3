@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\bin\Debug\net6.0\task_1.exe
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\bin\Debug\net6.0\task_1.deps.json
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\bin\Debug\net6.0\task_1.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\bin\Debug\net6.0\task_1.dll
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\bin\Debug\net6.0\task_1.pdb
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.dll
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\refint\task_1.dll
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.pdb
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\Introduction to C# programming\seminar_1\seminar_3 home task\seminar_3\task_1\obj\Debug\net6.0\ref\task_1.dll
