@@ -1,0 +1,9 @@
+// Подсчитать сумму цифр в числе
+Console.WriteLine("enter not more a four-digit number");
+int number = int.Parse(Console.ReadLine() ??"0");
+int number1 = (number / 1000) %10;
+int number2 = (number / 100) % 10;
+int number3 = (number / 10) % 10;
+int number4 = number % 10;
+int sum = number1 + number2 + number3 + number4;
+Console.WriteLine ("sum " + sum);
