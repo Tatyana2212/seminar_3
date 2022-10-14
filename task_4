@@ -1,0 +1,17 @@
+// Показать кубы чисел, заканчивающихся на четную цифру.
+Console.WriteLine("enter a number");
+int number = int.Parse(Console.ReadLine() ?? "0");
+int count = 1;
+    while (count <= number)
+{
+    count = number * number * number;
+}
+    if (count %2 ==0)
+{
+Console.WriteLine($"cube with even integer in the end " + count);
+}
+    else if (count %2 ==1)
+{
+Console.WriteLine($"cube with not even integer in the end " + count);
+}
+ count++;
